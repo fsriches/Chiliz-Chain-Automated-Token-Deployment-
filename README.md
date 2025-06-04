@@ -10,7 +10,7 @@ A comprehensive guide and toolkit for building automated token distribution syst
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/fsriches/Chiliz-Chain-Automated-Token-Deployment
+git clone https://github.com/fsriches/Chiliz-Chain-Automated-Token-Deployment-
 cd chiliz-automated-tokens
 npm install
 cp .env.example .env
